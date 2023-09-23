@@ -1,0 +1,15 @@
+/Users/nabi/Projects/ProblemsCSharp/ProblemsCSharp/bin/Debug/net7.0/ProblemsCSharp
+/Users/nabi/Projects/ProblemsCSharp/ProblemsCSharp/bin/Debug/net7.0/ProblemsCSharp.deps.json
+/Users/nabi/Projects/ProblemsCSharp/ProblemsCSharp/bin/Debug/net7.0/ProblemsCSharp.runtimeconfig.json
+/Users/nabi/Projects/ProblemsCSharp/ProblemsCSharp/bin/Debug/net7.0/ProblemsCSharp.dll
+/Users/nabi/Projects/ProblemsCSharp/ProblemsCSharp/bin/Debug/net7.0/ProblemsCSharp.pdb
+/Users/nabi/Projects/ProblemsCSharp/ProblemsCSharp/obj/Debug/net7.0/ProblemsCSharp.csproj.AssemblyReference.cache
+/Users/nabi/Projects/ProblemsCSharp/ProblemsCSharp/obj/Debug/net7.0/ProblemsCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nabi/Projects/ProblemsCSharp/ProblemsCSharp/obj/Debug/net7.0/ProblemsCSharp.AssemblyInfoInputs.cache
+/Users/nabi/Projects/ProblemsCSharp/ProblemsCSharp/obj/Debug/net7.0/ProblemsCSharp.AssemblyInfo.cs
+/Users/nabi/Projects/ProblemsCSharp/ProblemsCSharp/obj/Debug/net7.0/ProblemsCSharp.csproj.CoreCompileInputs.cache
+/Users/nabi/Projects/ProblemsCSharp/ProblemsCSharp/obj/Debug/net7.0/ProblemsCSharp.dll
+/Users/nabi/Projects/ProblemsCSharp/ProblemsCSharp/obj/Debug/net7.0/refint/ProblemsCSharp.dll
+/Users/nabi/Projects/ProblemsCSharp/ProblemsCSharp/obj/Debug/net7.0/ProblemsCSharp.pdb
+/Users/nabi/Projects/ProblemsCSharp/ProblemsCSharp/obj/Debug/net7.0/ProblemsCSharp.genruntimeconfig.cache
+/Users/nabi/Projects/ProblemsCSharp/ProblemsCSharp/obj/Debug/net7.0/ref/ProblemsCSharp.dll
